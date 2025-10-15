@@ -67,3 +67,5 @@ Package versioning, publishing, and the generation of changelogs on GitHub relea
 For more information on creating and managing changesets, please refer to the [Changesets documentation](https://github.com/changesets/changesets/blob/b59375614b1b3dabdf67806cd202defb314686a8/docs/adding-a-changeset.md).
 
 <!-- Auto-update: 2025-10-11T09:16:07.756415 -->
+
+<!-- Auto-update: 2025-10-15T12:16:17.962237 -->
