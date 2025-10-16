@@ -633,3 +633,5 @@
 - [#94](https://github.com/Folks-Finance/xchain-js-sdk/pull/94) [`1b4db45`](https://github.com/Folks-Finance/xchain-js-sdk/commit/1b4db453fa85bd73b3a96d2e885c989a3056aee8) Thanks [@palace22](https://github.com/palace22)! - Added CreateLoanAndDeposit action to SendTokenAction type
 
 <!-- Auto-update: 2025-10-06T23:08:50.452692 -->
+
+<!-- Auto-update: 2025-10-16T10:57:42.376120 -->
